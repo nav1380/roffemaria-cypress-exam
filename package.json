@@ -18,5 +18,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nav1380/roffemaria-cypress-exam"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0"
   }
 }
