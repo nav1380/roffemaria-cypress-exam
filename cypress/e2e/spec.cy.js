@@ -8,4 +8,8 @@ describe('template spec', () => {
     registrationPage.clickRegisterLink()
     registrationPage.fillRegistrationForm()
   })
+
+
+
+  
 })
