@@ -1,0 +1,18 @@
+{
+  "name": "roffemaria-cypress-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spec": "npx cypress run --record --key 383c19ca-0f60-4045-a7b6-422bd17ee85e 'cypress/e2e/spec.cy,js --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.7.0",
+    "cypress": "^14.3.2",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
