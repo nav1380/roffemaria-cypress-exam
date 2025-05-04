@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tests": "npx cypress run --record --key 383c19ca-0f60-4045-a7b6-422bd17ee85e 'cypress/e2e/spec.cy.js --browser chrome"
+    "tests": "npx cypress run --record --key 383c19ca-0f60-4045-a7b6-422bd17ee85e 'cypress/e2e/spec.cy.js' --browser chrome"
   },
   "keywords": [],
   "author": "",
